@@ -5,7 +5,7 @@ This website is designed to support both seniors and caregivers by providing a s
 https://drive.google.com/drive/folders/1RQH1ZLC5oEDusCRlf_PH-Pw1aqoiF6NA
 
 لينك FigJam    
-https://www.figma.com/board/7lNsvwwfDLTDxMQlXT69NE/%D9%88%D9%8E%D9%86%D9%90%D9%8A%D8%B3-APP-project?node-id=0-1&p=f&t=OFpopUprGISR6seP-0
+https://www.figma.com/board/jGBdh6ia1aq0IJ6VrkqBVU/%D9%88%D9%8E%D9%86%D9%90%D9%8A%D8%B3-UX?node-id=0-1&p=f&t=v94ZcYb5YjxG2XxX-0
 
 
 أسماء أعضاء الجروب
